@@ -55,42 +55,45 @@ cv:
           - Systems Security
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Clarkson University
+        position: Graduate Research Assistant - Machine Learning and Statistical Modeling
+        location: Potsdam, NY
+        start_date: 05/2025
+        end_date: 05/2026
+        summary: Worked in the department of mathematics.
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed predictive pipelines for healthcare datasets exceeding 40Million+ records, integrating multi-source data (Electronic Health Records & Census 2020) to analyze cancer lethality and socio-demographic disparities.
+          - Conducted performance benchmarking across Artificial Neural Networks (ANNs), Support Vector Machines (SVMs), Relevance Vector Machines (RVMs), and Random Forest to optimize diagnostic accuracy for prostate cancer screening.
+          - Used genetic biomarkers and longitudinal PSA data to extract features for early-stage prostate cancer grade prediction.
+          - Used classification models; namely SVMs and RVMs, hyper tuned them to optimize efficiency based on data spread and applied data balancing techniques such as SMOTE and Bootstrapping
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Clarkson University
+        position: Teaching Assistant - Statistics224
+        location: Potsdam, NY
+        start_date: 01/2025
+        end_date: 05/2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Assisted in teaching STAT282 General Statistics by guiding students through statistical concepts, grading assignments, and supporting classroom discussions.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
+      - company: Tegzy
+        position: SEO Engineer and Content Writer
+        location: Kathmandu, Nepal
         start_date: 1911
         end_date: 1917
+        highlights:
+          - Collected customer data and applied SEO techniques to improve client’s Search Engine Rankings.
+          - Created and Published Content for multiple Software Development Companies.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: DigiSchool Global
+        position: Academic Python Trainee
+        location: Kathmandu, Nepal
+        start_date: 04/2022
+        end_date: 11/2022
+        highlights:
+          - Delivered a Python programming course to high school students issued by NCC, UK that included data manipulation techniques using pandas and numpy, file handling and object-oriented programming (OOP).
+          - Developed GUI based ETL pipeline to handle high school students’ data of over 1200 students and visualize accounts data using Tableau.
+          - Designed and implemented interactive python programming platform to facilitate teaching programming skills to middle school students in 7 schools in Kathmandu, Nepal.
+
 
     Volunteer:
       - company: People's Climate March
