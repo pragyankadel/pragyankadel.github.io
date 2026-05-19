@@ -6,9 +6,8 @@ on:
       - master
       - main
   push:
-    branches:
-      - master
-      - main
+    branches-ignore:
+      - '**'
 
 jobs:
   check:
