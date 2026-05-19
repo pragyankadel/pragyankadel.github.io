@@ -1,7 +1,7 @@
 cv:
   name: Pragyan Kadel
   label: Data Scientist
-  email: kadelpragyan3@.com
+  email: kadelpragyan3@gmail.com
   location: Houston,TX
   image: ""
   summary: Data science graduate with experience in Python, SQL, ETL, machine learning, and large-scale healthcare data analysis. Strong background in predictive modeling, data quality, and transforming complex datasets into reliable analytical pipelines.
@@ -18,7 +18,7 @@ cv:
     street: 2700 Woodland Park Dr
     city: Houston
     region: Texas
-    postalCode: TX 77082
+    postalCode: 77082
     countryCode: US
 
   sections:
@@ -94,17 +94,6 @@ cv:
           - Developed GUI based ETL pipeline to handle high school students’ data of over 1200 students and visualize accounts data using Tableau.
           - Designed and implemented interactive python programming platform to facilitate teaching programming skills to middle school students in 7 schools in Kathmandu, Nepal.
 
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: Nobel Prize in Physics
