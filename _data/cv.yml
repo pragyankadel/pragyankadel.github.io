@@ -58,8 +58,8 @@ cv:
       - company: Clarkson University
         position: Graduate Research Assistant - Machine Learning and Statistical Modeling
         location: Potsdam, NY
-        start_date: 05/2025
-        end_date: 05/2026
+        start_date: 2025
+        end_date: 2026
         summary: Worked in the department of mathematics.
         highlights:
           - Developed predictive pipelines for healthcare datasets exceeding 40Million+ records, integrating multi-source data (Electronic Health Records & Census 2020) to analyze cancer lethality and socio-demographic disparities.
@@ -70,16 +70,16 @@ cv:
       - company: Clarkson University
         position: Teaching Assistant - Statistics224
         location: Potsdam, NY
-        start_date: 01/2025
-        end_date: 05/2025
+        start_date: 2025
+        end_date: 2025
         highlights:
           - Assisted in teaching STAT282 General Statistics by guiding students through statistical concepts, grading assignments, and supporting classroom discussions.
 
       - company: Tegzy
         position: SEO Engineer and Content Writer
         location: Kathmandu, Nepal
-        start_date: 1911
-        end_date: 1917
+        start_date: 2023
+        end_date: 2023
         highlights:
           - Collected customer data and applied SEO techniques to improve client’s Search Engine Rankings.
           - Created and Published Content for multiple Software Development Companies.
@@ -87,8 +87,8 @@ cv:
       - company: DigiSchool Global
         position: Academic Python Trainee
         location: Kathmandu, Nepal
-        start_date: 04/2022
-        end_date: 11/2022
+        start_date: 2022
+        end_date: 2022
         highlights:
           - Delivered a Python programming course to high school students issued by NCC, UK that included data manipulation techniques using pandas and numpy, file handling and object-oriented programming (OOP).
           - Developed GUI based ETL pipeline to handle high school students’ data of over 1200 students and visualize accounts data using Tableau.
