@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Data Scientist | Open to roles</a>. Houston, TX. +1 (315)-566-9842. kadelpragyan3@gmail.com.
 
 profile:
   align: right
